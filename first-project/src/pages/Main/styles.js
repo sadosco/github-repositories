@@ -80,7 +80,7 @@ export const List = styled.ul`
     padding: 15px 0;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 
     & + li {
